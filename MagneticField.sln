@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MagneticField", "MagneticField\MagneticField.shproj", "{86C94D6D-F1EE-4DB2-BB26-B6B7B159C244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagneticField.iOS", "iOS\MagneticField.iOS.csproj", "{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Release|iPhone.Build.0 = Release|iPhone
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3E0EF14A-3C15-413D-9A2E-E522A3FCE2F7}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
